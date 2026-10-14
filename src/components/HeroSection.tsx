@@ -16,7 +16,7 @@ export default function HeroSection() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center">
-          
+
           {/* Left Column: Headline & Value Prop */}
           <div className="lg:col-span-7 space-y-6">
             {/* Live Operations Pill */}
@@ -38,14 +38,14 @@ export default function HeroSection() {
               </span>
               <br />
               You run the{' '}
-              <span className="text-white underline decoration-red-500/40 decoration-wavy decoration-2">
+              <span className="text-white">
                 business.
               </span>
             </h1>
 
             {/* Subheading */}
             <p className="text-base sm:text-lg text-slate-300 font-normal leading-relaxed max-w-2xl">
-              We manage your complete digital operation—from custom AI voice & chat agents and automated CRM pipelines to high-speed Next.js websites, technical SEO, and 24/7 maintenance.
+              From mobile-first websites and AI-powered customer support to WhatsApp-connected enquiries, automated follow-ups and technical SEO, we help businesses simplify operations and serve customers across India.
             </p>
 
             {/* Feature Checkpoints */}
